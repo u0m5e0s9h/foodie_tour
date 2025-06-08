@@ -1,4 +1,4 @@
-# 🍽️ Julep Foodie Tour Agent
+#  Julep Foodie Tour Agent
 
 This workflow takes a list of cities, checks their current weather, and builds a personalized foodie tour with iconic local dishes and restaurant suggestions.
 
