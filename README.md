@@ -32,3 +32,7 @@ Mumbai, Tokyo, Paris
 
 ## Notes
 This is a low-code visual workflow built entirely using the Julep dashboard interface.
+
+
+![image](https://github.com/user-attachments/assets/bdebdcbe-f952-41ee-ba01-fe01cfefe8ca)
+
