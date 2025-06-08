@@ -36,4 +36,14 @@ This is a low-code visual workflow built entirely using the Julep dashboard inte
 
 ![image](https://github.com/user-attachments/assets/bdebdcbe-f952-41ee-ba01-fe01cfefe8ca)
 ![image](https://github.com/user-attachments/assets/5d960b52-f417-417f-8ba7-3d3ed95273eb)
+![image](https://github.com/user-attachments/assets/69b6de2e-86d0-46f7-8b89-60ff3dc2f62e)
+![image](https://github.com/user-attachments/assets/5b07dcac-37a8-49ae-9c7c-357f142c6389)
+![image](https://github.com/user-attachments/assets/d1eeb032-1151-4db8-bc07-ebd5b6d21075)
+![image](https://github.com/user-attachments/assets/e5f23264-c227-4add-b3c1-87763cf57245)
+![image](https://github.com/user-attachments/assets/df32ee58-4d96-4ab2-b5d2-8d10b8c524e3)
+
+![image](https://github.com/user-attachments/assets/c9b31c1b-d97a-46dd-b608-032ce4de14d9)
+
+
+
 
