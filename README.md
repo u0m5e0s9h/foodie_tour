@@ -35,4 +35,5 @@ This is a low-code visual workflow built entirely using the Julep dashboard inte
 
 
 ![image](https://github.com/user-attachments/assets/bdebdcbe-f952-41ee-ba01-fe01cfefe8ca)
+![image](https://github.com/user-attachments/assets/5d960b52-f417-417f-8ba7-3d3ed95273eb)
 
