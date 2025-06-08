@@ -25,11 +25,14 @@ Mumbai, Tokyo, Paris
    - Write full itinerary
 3. Output is formatted per city
 
-## Features
-- Weather-based dining suggestion (indoor/outdoor)
-- LLM-curated iconic dishes per city
-- Restaurant recommendations for breakfast, lunch, and dinner
-- Full one-day foodie itinerary per city
+## Instructions
+- Ask for a list of cities
+- Get today's weather for each city
+- Classify dining as indoor or outdoor
+- Suggest 3 iconic dishes per city
+- Find top-rated restaurants for those dishes
+- Generate a foodie tour for breakfast, lunch, and dinner
+- Customize the narrative based on weather and city culture
 
 ## Built With
 - Julep AI Dashboard (no SDK/API key used)
